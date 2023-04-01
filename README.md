@@ -36,3 +36,17 @@ Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden ger�
 * film tablosunda bulunan tüm sütunlardaki verilerden title 'C' karakteri ile başlayan ve uzunluğu (length) 90 dan büyük olan ve rental_rate 2.99 olan verileri sıralayınız.
 
 Kolay Gelsin.
+
+# Ödev 4
+
+Merhabalar,
+
+Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
+
+* film tablosunda bulunan replacement_cost sütununda bulunan birbirinden farklı değerleri sıralayınız.
+* film tablosunda bulunan replacement_cost sütununda birbirinden farklı kaç tane veri vardır?
+* film tablosunda bulunan film isimlerinde (title) kaç tanesini T karakteri ile başlar ve aynı zamanda rating 'G' ye eşittir?
+* country tablosunda bulunan ülke isimlerinden (country) kaç tanesi 5 karakterden oluşmaktadır?
+* city tablosundaki şehir isimlerinin kaç tanesi 'R' veya r karakteri ile biter?
+
+Kolay Gelsin.
