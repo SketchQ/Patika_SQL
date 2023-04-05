@@ -104,14 +104,11 @@ Kolay Gelsin.
 
 Merhabalar,
 
-
-
 Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
 
 * city tablosu ile country tablosunda bulunan şehir (city) ve ülke (country) isimlerini birlikte görebileceğimiz INNER JOIN sorgusunu yazınız.
 * customer tablosu ile payment tablosunda bulunan payment_id ile customer tablosundaki first_name ve last_name isimlerini birlikte görebileceğimiz INNER JOIN sorgusunu yazınız.
 * customer tablosu ile rental tablosunda bulunan rental_id ile customer tablosundaki first_name ve last_name isimlerini birlikte görebileceğimiz INNER JOIN sorgusunu yazınız.
-
 
 Kolay Gelsin.
 
@@ -119,34 +116,37 @@ Kolay Gelsin.
 
 Merhabalar,
 
-
-
 Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
-
-
 
 * city tablosu ile country tablosunda bulunan şehir (city) ve ülke (country) isimlerini birlikte görebileceğimiz LEFT JOIN sorgusunu yazınız.
 * customer tablosu ile payment tablosunda bulunan payment_id ile customer tablosundaki first_name ve last_name isimlerini birlikte görebileceğimiz RIGHT JOIN sorgusunu yazınız.
 * customer tablosu ile rental tablosunda bulunan rental_id ile customer tablosundaki first_name ve last_name isimlerini birlikte görebileceğimiz FULL JOIN sorgusunu yazınız.
 
-
 Kolay Gelsin.
 
 # Ödev 11
 
-
 Merhabalar,
 
-
-
 Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
-
-
 
 * actor ve customer tablolarında bulunan first_name sütunları için tüm verileri sıralayalım.
 * actor ve customer tablolarında bulunan first_name sütunları için kesişen verileri sıralayalım.
 * actor ve customer tablolarında bulunan first_name sütunları için ilk tabloda bulunan ancak ikinci tabloda bulunmayan verileri sıralayalım.
 * İlk 3 sorguyu tekrar eden veriler için de yapalım.
 
+
+Kolay Gelsin.
+
+# Ödev 12
+
+Merhabalar,
+
+Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
+
+* film tablosunda film uzunluğu length sütununda gösterilmektedir. Uzunluğu ortalama film uzunluğundan fazla kaç tane film vardır?
+* film tablosunda en yüksek rental_rate değerine sahip kaç tane film vardır?
+* film tablosunda en düşük rental_rate ve en düşün replacement_cost değerlerine sahip filmleri sıralayınız.
+* payment tablosunda en fazla sayıda alışveriş yapan müşterileri(customer) sıralayınız.
 
 Kolay Gelsin.
